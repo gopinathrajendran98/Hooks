@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Timing from './Timing';
 import State from './hooks/State';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
